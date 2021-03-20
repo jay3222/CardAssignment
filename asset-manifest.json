@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CardAssignment/static/css/main.0215bddd.chunk.css",
+    "main.js": "/CardAssignment/static/js/main.eceb9af5.chunk.js",
+    "main.js.map": "/CardAssignment/static/js/main.eceb9af5.chunk.js.map",
+    "runtime-main.js": "/CardAssignment/static/js/runtime-main.40ea9a15.js",
+    "runtime-main.js.map": "/CardAssignment/static/js/runtime-main.40ea9a15.js.map",
+    "static/js/2.711ea81f.chunk.js": "/CardAssignment/static/js/2.711ea81f.chunk.js",
+    "static/js/2.711ea81f.chunk.js.map": "/CardAssignment/static/js/2.711ea81f.chunk.js.map",
+    "index.html": "/CardAssignment/index.html",
+    "static/css/main.0215bddd.chunk.css.map": "/CardAssignment/static/css/main.0215bddd.chunk.css.map",
+    "static/js/2.711ea81f.chunk.js.LICENSE.txt": "/CardAssignment/static/js/2.711ea81f.chunk.js.LICENSE.txt",
+    "static/media/user1.22c31152.png": "/CardAssignment/static/media/user1.22c31152.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40ea9a15.js",
+    "static/js/2.711ea81f.chunk.js",
+    "static/css/main.0215bddd.chunk.css",
+    "static/js/main.eceb9af5.chunk.js"
+  ]
+}
